@@ -4,6 +4,6 @@ Landing page for Horiseon, a company that specializes in Search Engine Optimizat
 
 ## Screenshot
 
-  ![webpage screenshot] (/assets/images/screenshot.png.png)
+  ![webpage screenshot] (./assets/images/screenshot.png.png)
 
   
